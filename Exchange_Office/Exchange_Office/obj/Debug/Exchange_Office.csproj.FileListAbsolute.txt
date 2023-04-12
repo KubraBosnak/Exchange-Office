@@ -1,0 +1,10 @@
+C:\Users\Kübra\source\GitHub\Exchange_Office\Exchange_Office\bin\Debug\Exchange_Office.exe.config
+C:\Users\Kübra\source\GitHub\Exchange_Office\Exchange_Office\bin\Debug\Exchange_Office.exe
+C:\Users\Kübra\source\GitHub\Exchange_Office\Exchange_Office\bin\Debug\Exchange_Office.pdb
+C:\Users\Kübra\source\GitHub\Exchange_Office\Exchange_Office\obj\Debug\Exchange_Office.csproj.AssemblyReference.cache
+C:\Users\Kübra\source\GitHub\Exchange_Office\Exchange_Office\obj\Debug\Exchange_Office.Form1.resources
+C:\Users\Kübra\source\GitHub\Exchange_Office\Exchange_Office\obj\Debug\Exchange_Office.Properties.Resources.resources
+C:\Users\Kübra\source\GitHub\Exchange_Office\Exchange_Office\obj\Debug\Exchange_Office.csproj.GenerateResource.cache
+C:\Users\Kübra\source\GitHub\Exchange_Office\Exchange_Office\obj\Debug\Exchange_Office.csproj.CoreCompileInputs.cache
+C:\Users\Kübra\source\GitHub\Exchange_Office\Exchange_Office\obj\Debug\Exchange_Office.exe
+C:\Users\Kübra\source\GitHub\Exchange_Office\Exchange_Office\obj\Debug\Exchange_Office.pdb
